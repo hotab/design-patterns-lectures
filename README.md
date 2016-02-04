@@ -2,6 +2,9 @@
 
 ## Литература:
 * Банда четырех
+ * [PDF](http://www.uml.org.cn/c++/pdf/DesignPatterns.pdf)  
+ * [EPUB + CODE](http://rutracker.org/forum/viewtopic.php?t=4835979)
+ * [DJVU](http://rutracker.org/forum/viewtopic.php?t=4443429)
 * Проэктирование программного обеспечения
 
 ## Схема изложения
